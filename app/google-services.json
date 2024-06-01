@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "419548946338",
+    "firebase_url": "https://iotwater-4b02a-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "iotwater-4b02a",
+    "storage_bucket": "iotwater-4b02a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:419548946338:android:041cb113b3f4f665859cfb",
+        "android_client_info": {
+          "package_name": "Final.iotwater"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLe2zRFhgGFPyxkqmO-obZLd38QHGqd6M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

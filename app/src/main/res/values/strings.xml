@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Iot Watering</string>
+    <string name="schedule">Schedule</string>
+    <string name="back_button">back screen\n</string>
+    <string name="loading_failed">fail\n</string>
+    <string name="effect_on_plant_1">Cây thiếu nước, sinh trưởng kém, lá héo úa, rụng lá, có thể chết</string>
+    <string name="effect_on_plant_2">Cây bắt đầu có dấu hiệu thiếu nước, sinh trưởng chậm.</string>
+    <string name="effect_on_plant_3">Cây phát triển tốt trong điều kiện này</string>
+    <string name="effect_on_plant_4">Cây dễ bị úng nước, thối rễ, phát sinh nấm bệnh </string>
+    <string name="effect_on_plant_5">Cây không thể hô hấp, dễ bị chết</string>
+    <string name="watering_schedule">Watering Schdule\n</string>
+</resources>
